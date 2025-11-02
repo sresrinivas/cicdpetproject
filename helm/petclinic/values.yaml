@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: cicdcontainer/petproject
+  repository: venkataganesh48/ecomm-repo
   tag: latest
   pullPolicy: IfNotPresent
 
