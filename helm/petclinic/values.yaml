@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: venkataganesh48/ecomm-repo
+  repository: venkataganesh48/ecomm-repo:10
   tag: latest
   pullPolicy: IfNotPresent
 
